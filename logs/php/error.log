@@ -1,0 +1,12 @@
+[04-Jul-2024 15:10:54 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Jul-2024 15:10:54 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[04-Jul-2024 15:10:54 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[04-Jul-2024 15:10:54 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[04-Jul-2024 15:10:54 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[04-Jul-2024 15:10:54 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[04-Jul-2024 15:11:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Jul-2024 15:11:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[04-Jul-2024 15:11:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[04-Jul-2024 15:11:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[04-Jul-2024 15:11:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[04-Jul-2024 15:11:00 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\JayDen\Local Sites\wordpress-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
